@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikabara - Nick Baratashvili
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning ASP.NET (MVC)
+- 👀 I’m interested in Programming / Business
+- 🌱 I’m currently learning .NET API
 - 💞️ I’m looking to collaborate on any idea you have got =)
 - 📫 How to reach me nikobar3005@gmail.com or baratashvilinick@gmail.com
 
